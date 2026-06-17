@@ -253,7 +253,7 @@ Libraries:
 
 ## Author
 
-Soheil Khorrami
+Soheil Khorrami - Daniel Alavi
 
 Algorithm Design Course Project
 
