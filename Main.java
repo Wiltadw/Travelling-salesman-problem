@@ -29,7 +29,7 @@ public class Main {
             System.out.printf("Run Time: %.3f ms%n%n", (endDP - startDP) / 1_000_000.0);
         }
         else if (N < 2)
-            System.out.println("WTF are we supposed to do with 1 town bro ??!!");
+            System.out.println("At least two cities are required to solve TSP.");
         else
             System.out.println("Too big N can cause to memory issues !");
 
